@@ -1,4 +1,4 @@
-# Real Time Facial Recognition using Tensorflow.js (Face-api)
+# Real Time Facial Recognition using Face-api
 
 # Description
 Implementation of a real-time face-detector on the client-side (In the Browser) using Face-api which is built on top of tensorflow.js core API.
