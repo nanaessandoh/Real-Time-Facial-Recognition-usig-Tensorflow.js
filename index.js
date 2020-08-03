@@ -211,7 +211,7 @@ function resizeCanvasAndResults(dimensions, canvas, results) {
     console.log("Resizing Canvas to Image Size (", width, "x", height, ")");
 
     if (width == 0 || height == 0) {
-        $(loaderTextTab1Id).html("Image error, try again or reloading the page...");
+        $(loaderTextTab1Id).html("Image error, try again or reload the page");
         return null;
     } else {
         canvas.width = width;
@@ -226,7 +226,7 @@ function resizeCanvasAndResultsVideo(dimensions, canvas, results) {
     // console.log("Resizing Canvas to Image Size (", width, "x", height, ")" );
 
     if (width == 0 || height == 0) {
-        $(loaderTextTab1Id).html("Image error, try again or reloading the page...");
+        $(loaderTextTab1Id).html("Image error, try again or reload the page");
         return null;
     } else {
         canvas.width = width;
