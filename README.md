@@ -11,3 +11,6 @@ MTCNN (Multi-task Cascaded Convolutional Neural Networks) is an algorithm consis
 **Live Demo:** 
 https://nanaessandoh.github.io/index.html
 
+# Screenshots
+![Test Image Upload](Test/test1.png)
+![Test Web Camera](Test/test2.png)
